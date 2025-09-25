@@ -12,18 +12,11 @@ Our goal is to make healthy eating simple, affordable, and accessible for everyo
 - 📦 Multiple packages & bundles for different needs  
 - 🥗 100% healthy & fresh meals  
 - 🚚 Fast and reliable delivery  
-- 📱 Easy to order through Facebook & Instagram pages  
+- 📱 Easy to order through "OUR APP"
 
 ---
 
 ## 📂 Project Structure
-
----
-
-## 🛠️ Technologies Used
-- HTML / CSS / JavaScript (for frontend demo)  
-- [Any framework you’re using, e.g., React, Flutter, etc.]  
-- Firebase / Node.js (if backend is included)  
 
 ---
 
@@ -33,19 +26,17 @@ Our goal is to make healthy eating simple, affordable, and accessible for everyo
    - [Instagram](https://www.instagram.com/green.fork1)  
 
 2. Choose your bundle or package  
-3. Place your order via DM or integrated system  
+3. Place your order via GreenFork App 
 4. Get your healthy meal delivered 🚚  
 
 ---
 
-## 🤝 Contributing
-Contributions, issues, and feature requests are welcome!  
-Feel free to check the [issues page](#).  
-
----
-
-## 📄 License
-This project is licensed under the MIT License – see the LICENSE file for details.  
+## 🤝 Team Members
+Ziad Karem(Leader)
+Germine Adel
+Mohamed Amgad
+Farah Muhamed
+Omar Sowan
 
 ---
 
