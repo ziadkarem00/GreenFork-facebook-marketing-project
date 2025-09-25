@@ -32,10 +32,10 @@ Our goal is to make healthy eating simple, affordable, and accessible for everyo
 ---
 
 ## 🤝 Team Members
-Ziad Karem(Leader)
-Germine Adel
-Mohamed Amgad
-Farah Muhamed
+Ziad Karem(Leader), 
+Germine Adel, 
+Mohamed Amgad, 
+Farah Muhamed, 
 Omar Sowan
 
 ---
