@@ -1,45 +1,71 @@
-Google Dirve link:https://drive.google.com/drive/folders/1UwlUu_MCtSO4hIUPoIb_QsrNYMxopQ60
+Project Name
+GreenFork
+________________________________________
+Project Idea
+ GreenFork is a healthy food delivery service that provides fresh, nutritious, and delicious meals right to your doorstep.  
+Our goal is to make healthy eating simple, affordable, and accessible for everyone.
+________________________________________
+Team Members (pentaRae)
+زياد كارم
+جيرمين عادل
+فرح محمد
+عمر خالد
+محمد امجد
+________________________________________
+Work Plan
+1.	Research & Analysis
+o	Audience personas
+o	 Competitor analysis
+2.	Visual Identity
+o	Logo design
+o	App Design
+3.	Main Designs
+o	Posters
+o	Menu
+4.	Complementary Products
+Digital & App Integrations (Software)
+5.	Review & Finalization
+Team Review and Finalization
+6.	Final Presentation
+Presentation PDF
+Upload to GitHub
+________________________________________
+Roles & Responsibilities
+•	________________________________________
+زياد كارم (Team Leader)
+Creating PDFs
+جيرمين عادل
+Brainstorming
+Project idea
+KPIS data
+
+فرح محمد
+Brainstorming
+Tactics Data
+
+عمر خالد 
+Brainstorming
+Action Data
+
+محمد امجد
+Brainstorming
+Strategy Data
+
+•	KPIs (Key Performance Indicators) – Metrics for project success (e.g., response time, system uptime, user adoption rate).
+
+________________________________________
 
 
-# GreenFork 🌱
+Instructor 
+•	Eng. Anan Mostafa
 
-GreenFork is a healthy food delivery service that provides fresh, nutritious, and delicious meals right to your doorstep.  
-Our goal is to make healthy eating simple, affordable, and accessible for everyone.  
+________________________________________
 
----
 
-## 🚀 Features
-- 📦 Multiple packages & bundles for different needs  
-- 🥗 100% healthy & fresh meals  
-- 🚚 Fast and reliable delivery  
-- 📱 Easy to order through "OUR APP"
-
----
-
-## 📂 Project Structure
-
----
-
-## 📖 How to Use
-1. Visit our official pages:  
-   - [Facebook](https://www.facebook.com/greenfork1)  
-   - [Instagram](https://www.instagram.com/green.fork1)  
-
-2. Choose your bundle or package  
-3. Place your order via GreenFork App 
-4. Get your healthy meal delivered 🚚  
-
----
-
-## 🤝 Team Members
-Ziad Karem(Leader), 
-Germine Adel, 
-Mohamed Amgad, 
-Farah Muhamed, 
-Omar Sowan
-
----
-
-## 💚 About GreenFork
-*"Healthy bites, happy life."*  
-GreenFork is here to help you live healthier with tasty and nutritious meals.  
+Project Files
+You can find the full project files here:
+https://drive.google.com/drive/folders/1UwlUu_MCtSO4hIUPoIb_QsrNYMxopQ60?usp=drive_link
+________________________________________
+License
+This project is licensed under “YAT”
+________________________________________
