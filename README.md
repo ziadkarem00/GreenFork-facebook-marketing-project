@@ -7,9 +7,17 @@ Our goal is to make healthy eating simple, affordable, and accessible for everyo
 ________________________________________
 Team Members (pentaRae)
 زياد كارم
+
+
 جيرمين عادل
+
+
 فرح محمد
+
+
 عمر خالد
+
+
 محمد امجد
 ________________________________________
 Work Plan
